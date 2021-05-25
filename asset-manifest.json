@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pwa-demo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/pwa-demo/static/js/main.e4c90d3b.chunk.js",
+    "main.js.map": "/pwa-demo/static/js/main.e4c90d3b.chunk.js.map",
+    "runtime-main.js": "/pwa-demo/static/js/runtime-main.89da388e.js",
+    "runtime-main.js.map": "/pwa-demo/static/js/runtime-main.89da388e.js.map",
+    "static/css/2.97503911.chunk.css": "/pwa-demo/static/css/2.97503911.chunk.css",
+    "static/js/2.89438a7c.chunk.js": "/pwa-demo/static/js/2.89438a7c.chunk.js",
+    "static/js/2.89438a7c.chunk.js.map": "/pwa-demo/static/js/2.89438a7c.chunk.js.map",
+    "static/js/3.721c76ee.chunk.js": "/pwa-demo/static/js/3.721c76ee.chunk.js",
+    "static/js/3.721c76ee.chunk.js.map": "/pwa-demo/static/js/3.721c76ee.chunk.js.map",
+    "index.html": "/pwa-demo/index.html",
+    "service-worker.js": "/pwa-demo/service-worker.js",
+    "service-worker.js.map": "/pwa-demo/service-worker.js.map",
+    "static/css/2.97503911.chunk.css.map": "/pwa-demo/static/css/2.97503911.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/pwa-demo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.89438a7c.chunk.js.LICENSE.txt": "/pwa-demo/static/js/2.89438a7c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/pwa-demo/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89da388e.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.89438a7c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e4c90d3b.chunk.js"
+  ]
+}
